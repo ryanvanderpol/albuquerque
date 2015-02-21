@@ -1,0 +1,23 @@
+{
+  "name": "albuquerque",
+  "version": "0.1.0",
+  "description": "Simple A/B view testing for Express.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ryanvanderpol/albuquerque.git"
+  },
+  "keywords": [
+    "a/b",
+    "testing"
+  ],
+  "author": "Ryan Vanderpol",
+  "license": "MIT License",
+  "bugs": {
+    "url": "https://github.com/ryanvanderpol/albuquerque/issues"
+  },
+  "homepage": "https://github.com/ryanvanderpol/albuquerque"
+}
